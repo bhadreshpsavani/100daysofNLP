@@ -4,7 +4,7 @@ From last month i was involve in few personal things and didn't get much time to
 So i am taking challenge to learn NLP for 100days to get back on the awesome world of NLP.
 
 During this 100days the goal is to,
-* learn NLP stuff, 
+* Learn NLP stuff, 
 * Contribute to opensource, 
 * Read Research paper,  
 * Write blog in NLP,
