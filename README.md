@@ -11,3 +11,7 @@ During this 100days the goal is to,
 * Build Something New and Opensource it.
 
 The most important thing share it on twitter and Linkedin. Maintain it on this github repository.
+
+# Day1:
+
+Started Learning about Model Interpretability in Pytorch Model using [Captum](https://github.com/pytorch/captum). In NLP we build models with great performance but It's important to know how the model is predicting. What kind of text is focused and observed by neuron/layer/model. 
