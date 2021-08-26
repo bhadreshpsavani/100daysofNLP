@@ -36,10 +36,10 @@ I understood that there it can be done in three phases:
 I continued my journey towards model interpretability. I tried `LayerGradientIntergration` method and analysed how each 6 layers of distilbert gives importantance or attribution to input tokens.
 
 Below image shows histogram of importance given to each token at each layers
-![image](images/distributional_char_of_attribution.png)
+![image](images/heatmap_distilbert_layers.png)
 
 Below images indicates token name `important` and its attribution value distribution at each layer
 ![image](images/importance_token_layerwise_attribution.png)
-![image](images/heatmap_distilbert_layers.png)
+![image](images/distributional_char_of_attribution.png)
 
 [Colab Notebook](notebooks/Distilbert_Model_Interpretability_With_Captum.ipynb)
