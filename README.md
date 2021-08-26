@@ -18,7 +18,7 @@ Started Learning about Model Interpretability in Pytorch Model using [Captum](ht
 
 ## Day2:
 
-Worked on Captum, Had word important analysis on my Distilbert trained on Emotion dataset. Below image shows that how words are given importance in with respect to target in the distilbert model. I used Integrated Gradient method for model interpretability.
+Worked on Captum, Had word important analysis on my Distilbert trained on Emotion Classification dataset. Below image shows that how words are given importance in with respect to target in the distilbert model. I used Integrated Gradient method for model interpretability for Embedding layers.
 
 ![image](images/WordImportance.png)
 
@@ -33,3 +33,13 @@ I understood that there it can be done in three phases:
 2. Get Overall Idea: `Introduction`, `Conclusion` and Skim through entire text, Leave too much complicated things for now,
 3. Get Indepth Idea: Go through Entire Paper to get in depth Understanding, Make **Notes**, **Derive Mathematical Equations** by pen and paper, Get Code and **Implement** Paper, ask question to yourself and have more understanding 
 
+I continued my journey towards model interpretability. I tried `LayerGradientIntergration` method and analysed how each 6 layers of distilbert gives importantance or attribution to input tokens.
+
+Below image shows histogram of importance given to each token at each layers
+![image](images/distributional_char_of_attribution.png)
+
+Below images indicates token name `important` and its attribution value distribution at each layer
+![image](images/importance_token_layerwise_attribution.png)
+![image](images/heatmap_distilbert_layers.png)
+
+[Colab Notebook](notebooks/Distilbert_Model_Interpretability_With_Captum.ipynb)
