@@ -25,6 +25,8 @@ Worked on Captum, Had word important analysis on my Distilbert trained on Emotio
 [Colab Notebook](notebooks/Distilbert_Model_Interpretability_With_Captum.ipynb)
 
 ## Day3:
+
+### How to read Researchpaper effectively
 I have been reading papers a lot but it was top down approach to go through entire research paper. It wasn't effective appraoch.
 Come across this recent [article and video](https://saiamrit.github.io/technical-blog/research/reading_papers/2021/07/31/read-papers.html) Its showing systematic way. 
 
@@ -33,6 +35,8 @@ I understood that there it can be done in three phases:
 2. Get Overall Idea: `Introduction`, `Conclusion` and Skim through entire text, Leave too much complicated things for now,
 3. Get Indepth Idea: Go through Entire Paper to get in depth Understanding, Make **Notes**, **Derive Mathematical Equations** by pen and paper, Get Code and **Implement** Paper, ask question to yourself and have more understanding 
 
+
+### Distilbert Model Interpretability With Captum
 I continued my journey towards model interpretability. I tried `LayerGradientIntergration` method and analysed how each 6 layers of distilbert gives importantance or attribution to input tokens.
 
 Below image shows histogram of importance given to each token at each layers
