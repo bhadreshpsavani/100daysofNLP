@@ -19,8 +19,10 @@ Started Learning about Model Interpretability in Pytorch Model using [Captum](ht
 ## Day2:
 
 Worked on Captum, Had word important analysis on my Distilbert trained on Emotion dataset. Below image shows that how words are given importance in with respect to target in the distilbert model. I used Integrated Gradient method for model interpretability.
-![image](WordImportance.png)
-[Colab Notebook](Distilbert_Model_Interpretability_With_Captum.ipynb)
+
+![image](images/WordImportance.png)
+
+[Colab Notebook](notebooks/Distilbert_Model_Interpretability_With_Captum.ipynb)
 
 ## Day3:
 I have been reading papers a lot but it was top down approach to go through entire research paper. It wasn't effective appraoch.
@@ -30,3 +32,4 @@ I understood that there it can be done in three phases:
 1. Get Some Idea: `Title`, `Abstract`, and `subsection Titles`, `Important Figure` and `Tables`,
 2. Get Overall Idea: `Introduction`, `Conclusion` and Skim through entire text, Leave too much complicated things for now,
 3. Get Indepth Idea: Go through Entire Paper to get in depth Understanding, Make **Notes**, **Derive Mathematical Equations** by pen and paper, Get Code and **Implement** Paper, ask question to yourself and have more understanding 
+
