@@ -26,4 +26,7 @@ Worked on Captum, Had word important analysis on my Distilbert trained on Emotio
 I have been reading papers a lot but it was top down approach to through entire research paper. It wasn't effective appraoch.
 Come across this recent [article and video](https://saiamrit.github.io/technical-blog/research/reading_papers/2021/07/31/read-papers.html) Its showing systematic way. 
 
-
+I understood that there it can be done in three phases:
+1. Get Some Idea: `Title`, `Abstract`, and `subsection Titles`, `Important Figure` and `Tables`,
+2. Get Overall Idea: `Introduction`, `Conclusion` and Skim through entire text, Leave too much complicated things for now,
+3. Get Indepth Idea: Go through Entire Paper to get in depth Understanding, Make **Notes**, **Derive Mathematical Equations** by pen and paper, Get Code and **Implement** Paper, ask question to yourself and have more understanding 
