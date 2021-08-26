@@ -23,7 +23,7 @@ Worked on Captum, Had word important analysis on my Distilbert trained on Emotio
 [Colab Notebook](Distilbert_Model_Interpretability_With_Captum.ipynb)
 
 ## Day3:
-I have been reading papers a lot but it was top down approach to through entire research paper. It wasn't effective appraoch.
+I have been reading papers a lot but it was top down approach to go through entire research paper. It wasn't effective appraoch.
 Come across this recent [article and video](https://saiamrit.github.io/technical-blog/research/reading_papers/2021/07/31/read-papers.html) Its showing systematic way. 
 
 I understood that there it can be done in three phases:
