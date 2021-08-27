@@ -43,3 +43,7 @@ Below images indicates token name `important` and its attribution value distribu
 ![image](images/heatmap_distilbert_layers.png)
 
 [Colab Notebook](notebooks/Distilbert_Model_Interpretability_With_Captum.ipynb)
+
+## Day4:
+
+Started Reading the original researchpaper on [Integrated Gradient - An Axiomatic Attribution for Deep Networks](https://arxiv.org/pdf/1703.01365.pdf) The most interesting thing about this method is. We don't need to modify model, we can simply get Model Interpretability from gradient. 
