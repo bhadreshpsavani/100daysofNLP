@@ -57,3 +57,9 @@ Started Reading the original researchpaper on [Integrated Gradient - An Axiomati
 Completed reading [Integrated Gradient - An Axiomatic Attribution for Deep Networks](https://arxiv.org/pdf/1703.01365.pdf)
 
 In terms of NLP, Integrated Gradient(IG) can be said as path integration of gradient of baseline text to input text. Here, baseline text can be zero embedding vector. I got clear picture of the underlining concepts. Its interesting read to get theoretical and methemetical understanding about IG. 
+
+![equation](images/ig.png)
+
+The underlying concepts and math behindng below awesome heatmap for language traslation is IG
+![lang_heatmap](images/language_translation.png)
+![Original Implemention Examples](https://github.com/ankurtaly/Integrated-Gradients)
