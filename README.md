@@ -52,3 +52,8 @@ Below images indicates token name `important` and its attribution value distribu
 
 Started Reading the original researchpaper on [Integrated Gradient - An Axiomatic Attribution for Deep Networks](https://arxiv.org/pdf/1703.01365.pdf) The most interesting thing about this method is. We don't need to modify model, we can simply get Model Interpretability from gradient. 
 
+# Day5:
+
+Completed reading [Integrated Gradient - An Axiomatic Attribution for Deep Networks](https://arxiv.org/pdf/1703.01365.pdf)
+
+In terms of NLP, Integrated Gradient(IG) can be said as path integration of gradient of baseline text to input text. Here, baseline text can be zero embedding vector. I got clear picture of the underlining concepts. Its interesting read to get theoretical and methemetical understanding about IG. 
