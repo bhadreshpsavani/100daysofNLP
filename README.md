@@ -62,4 +62,4 @@ In terms of NLP, Integrated Gradient(IG) can be said as path integration of grad
 
 The underlying concepts and math behindng below awesome heatmap for language traslation is IG
 ![lang_heatmap](images/language_translation.png)
-![Original Implemention Examples](https://github.com/ankurtaly/Integrated-Gradients)
+[Original Implemention Examples](https://github.com/ankurtaly/Integrated-Gradients)
