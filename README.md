@@ -52,7 +52,7 @@ Below images indicates token name `important` and its attribution value distribu
 
 Started Reading the original researchpaper on [Integrated Gradient - An Axiomatic Attribution for Deep Networks](https://arxiv.org/pdf/1703.01365.pdf) The most interesting thing about this method is. We don't need to modify model, we can simply get Model Interpretability from gradient. 
 
-# Day5:
+## Day5:
 
 Completed reading [Integrated Gradient - An Axiomatic Attribution for Deep Networks](https://arxiv.org/pdf/1703.01365.pdf)
 
@@ -63,3 +63,15 @@ In terms of NLP, Integrated Gradient(IG) can be said a path integration of gradi
 The underlying concepts and math behindng below awesome heatmap for language traslation is IG
 ![lang_heatmap](images/language_translation.png)
 [Original Implemention Examples](https://github.com/ankurtaly/Integrated-Gradients)
+
+## Day6:
+
+Large language models like GPT3 or GPT-Neo memorize and regurgitate part of their training data. I was exploring how well GPT-Neo model can memorize the pile data. 
+
+Since large language models exhibit minimal overfitting (their train and test losses are nearly identical), we know that memorization, if it occurs, must be a rare phenomenon. I have started knowing more on interpretability of GPT-Neo model in terms of memorization.
+
+[kaggle-data29-notebook](https://www.kaggle.com/usaiprashanth/gpt-1-3b-model)
+[with-shuffle](https://github.com/uSaiPrashanth/eleutherai-experiments/blob/main/gpt-1.3b-model-with-shuffling.ipynb)
+[without-shuffle](https://github.com/uSaiPrashanth/eleutherai-experiments/blob/main/gpt-1.3b-model-without-shuffling.ipynb)
+[eda](https://www.kaggle.com/usaiprashanth/gpt-eda/data?select=results+%285%29)
+[Does GPT-2 Know Your Phone Number?](https://bair.berkeley.edu/blog/2020/12/20/lmmem/)
