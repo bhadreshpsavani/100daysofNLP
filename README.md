@@ -75,3 +75,4 @@ Since large language models exhibit minimal overfitting (their train and test lo
 [without-shuffle](https://github.com/uSaiPrashanth/eleutherai-experiments/blob/main/gpt-1.3b-model-without-shuffling.ipynb)
 [eda](https://www.kaggle.com/usaiprashanth/gpt-eda/data?select=results+%285%29)
 [Does GPT-2 Know Your Phone Number?](https://bair.berkeley.edu/blog/2020/12/20/lmmem/)
+[Euther-AI-Issue](https://github.com/EleutherAI/project-menu/issues/11)
