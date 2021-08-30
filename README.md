@@ -62,6 +62,7 @@ In terms of NLP, Integrated Gradient(IG) can be said a path integration of gradi
 
 The underlying concepts and math behindng below awesome heatmap for language traslation is IG
 ![lang_heatmap](images/language_translation.png)
+
 [Original Implemention Examples](https://github.com/ankurtaly/Integrated-Gradients)
 
 ## Day6:
@@ -81,3 +82,12 @@ Since large language models exhibit minimal overfitting (their train and test lo
 [Does GPT-2 Know Your Phone Number?](https://bair.berkeley.edu/blog/2020/12/20/lmmem/)
 
 [Euther-AI-Issue](https://github.com/EleutherAI/project-menu/issues/11)
+
+## Day7:
+
+When we have really huge text data or document which can't fit in the BERT max token length of `512` or similiar transformer based networks. We can encode entire text with transformer based network and pass generated embedding to Autoencoder network. Autoencoder consists of encoder and decoder network. For text domain encoder/decoder can be lstm/GRU. This network has ability to remember longer context. It tries to generate combined text representation by also considering temporal context.
+
+![auto-encoder](images/taper.png)
+
+[intro-lstm-autoencoders-blog](https://machinelearningmastery.com/lstm-autoencoders/#:~:text=Autoencoders%20in%20Keras-,What%20Are%20Autoencoders%3F,referred%20to%20as%20self%2Dsupervised.)
+
