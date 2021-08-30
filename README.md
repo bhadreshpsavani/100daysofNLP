@@ -85,7 +85,11 @@ Since large language models exhibit minimal overfitting (their train and test lo
 
 ## Day7:
 
-Sometimes we have huge text data or documents which can't fit in the BERT max token length of `512` or similar transformer-based networks. We can encode the entire text with a transformer-based network and pass generated embedding to the Autoencoder network. Autoencoder consists of encoder and decoder networks. For text-domain encoder/decoder can be Lstm/GRU. This network can remember the large context. It tries to generate combined text representation by also considering the temporal context.
+Sometimes we have huge text data or documents which can't fit in the BERT max token length of `512` or similar transformer-based networks. 
+
+We can encode the entire text with a transformer-based network and pass generated embedding to the Autoencoder network. Autoencoder consists of encoder and decoder networks. For text-domain encoder/decoder can be Lstm/GRU. 
+
+This network can remember the large context. It tries to generate combined text representation by also considering the temporal context.
 
 ![auto-encoder](images/taper.png)
 
