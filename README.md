@@ -93,7 +93,7 @@ This network can remember the large context. It tries to generate combined text 
 
 ![auto-encoder](images/taper.png)
 
-How it can  be used for Dimentionality Reduction?
+### How it can  be used for Dimentionality Reduction?
 
 For a given dataset of sequences, an encoder-decoder LSTM is configured to read the input sequence, encode it, decode it, and recreate it. The performance of the model is evaluated based on the model’s ability to recreate the input sequence.
 
