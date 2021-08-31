@@ -95,9 +95,9 @@ This network can remember the large context. It tries to generate combined text 
 
 ### How it can  be used for Dimentionality Reduction?
 
-For a given dataset of sequences, an encoder-decoder LSTM is configured to read the input sequence, encode it, decode it, and recreate it. The performance of the model is evaluated based on the model’s ability to recreate the input sequence.
+For a given dataset of sequences, an encoder-decoder LSTM is configured to read the input sequence, encode it, decode it, and **recreate** it. The performance of the model is evaluated based on the model's ability to recreate the input sequence.
 
-Once the model achieves a desired level of performance recreating the sequence, the decoder part of the model may be removed, leaving just the encoder model. This model can then be used to encode input sequences to a fixed-length vector.
+Once the model achieves a desired level of performance recreating the sequence, the **decoder part of the model may be removed**, leaving just the encoder model. This model can then be used to encode input sequences to a fixed-length vector.
 
 [intro-lstm-autoencoders-blog](https://machinelearningmastery.com/lstm-autoencoders/#:~:text=Autoencoders%20in%20Keras-,What%20Are%20Autoencoders%3F,referred%20to%20as%20self%2Dsupervised.)
 
