@@ -104,3 +104,7 @@ Once the model achieves a desired level of performance recreating the sequence, 
 ## Day8:
 
 Started Working on adding FlaxPegasus Model in Huggingface Transformers
+
+I was suggested to use recently added [cookie clutter templates](https://github.com/huggingface/transformers/tree/master/templates/adding_a_new_model) code that makes the starting model adding code so much easier. Its very fascinating the way it creates sample code for you automatically.
+
+
