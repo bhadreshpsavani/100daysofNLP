@@ -101,3 +101,6 @@ Once the model achieves a desired level of performance recreating the sequence, 
 
 [intro-lstm-autoencoders-blog](https://machinelearningmastery.com/lstm-autoencoders/#:~:text=Autoencoders%20in%20Keras-,What%20Are%20Autoencoders%3F,referred%20to%20as%20self%2Dsupervised.)
 
+## Day8:
+
+Started Working on adding FlaxPegasus Model in Huggingface Transformers
