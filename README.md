@@ -107,4 +107,8 @@ Started Working on adding FlaxPegasus Model in Huggingface Transformers
 
 I was suggested to use recently added [cookie clutter templates](https://github.com/huggingface/transformers/tree/master/templates/adding_a_new_model) code that makes the starting model adding code so much easier. Its very fascinating the way it creates sample code for you automatically.
 
+## Day9:
 
+Working on FlaxPegasus Model Code Addition in Huggingface Transformers
+
+I am facing issue while running test cases
