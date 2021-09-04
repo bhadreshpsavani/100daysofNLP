@@ -112,3 +112,6 @@ I was suggested to use recently added [cookie clutter templates](https://github.
 Working on FlaxPegasus Model Code Addition in Huggingface Transformers
 
 I am facing issue while running test cases
+
+## Day10:
+Created Pull request for [FlaxPegasus](https://github.com/huggingface/transformers/pull/13420). There are few remaining items. I am working on it.
