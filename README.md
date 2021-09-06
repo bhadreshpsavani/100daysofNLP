@@ -115,3 +115,6 @@ I am facing issue while running test cases
 
 ## Day10:
 Created Pull request for [FlaxPegasus](https://github.com/huggingface/transformers/pull/13420). There are few remaining items. I am working on it.
+
+## Day11:
+Fixed one more text case in FlaxPegasus addition and added sinusodial positional embedding in flaxpegasus which makes pegasus model different from Bart model.
