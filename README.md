@@ -118,3 +118,6 @@ Created Pull request for [FlaxPegasus](https://github.com/huggingface/transforme
 
 ## Day11:
 Fixed one more text case in FlaxPegasus addition and added sinusodial positional embedding in flaxpegasus which makes pegasus model different from Bart model.
+
+## Day12:
+Working on fixing `FlaxPegasus` still fixing test case. Made commits to implement suggested changes.
