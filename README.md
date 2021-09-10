@@ -121,3 +121,10 @@ Fixed one more text case in FlaxPegasus addition and added sinusodial positional
 
 ## Day12:
 Working on fixing `FlaxPegasus` still fixing test case. Made commits to implement suggested changes.
+
+## Day13:
+Worked on Fixing `FlaxPegasus` Test case but it did not work out
+
+## Day14:
+Fixed `FlaxPegasus` Test cases and the [PR](https://github.com/huggingface/transformers/pull/13420) seems good to go. 1900+ line of code will be added for FlaxPegasus in Huggingface Transformers by me 🥳 
+I also found few typos in `FlaxMBart` model will fix in future
