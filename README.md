@@ -128,3 +128,6 @@ Worked on Fixing `FlaxPegasus` Test case but it did not work out
 ## Day14:
 Fixed `FlaxPegasus` Test cases and the [PR](https://github.com/huggingface/transformers/pull/13420) seems good to go. 1900+ line of code will be added for FlaxPegasus in Huggingface Transformers by me 🥳 
 I also found few typos in `FlaxMBart` model will fix in future
+
+## Day15:
+I have started reading [Aapraching Almsot any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) by Abhishek Thakur
